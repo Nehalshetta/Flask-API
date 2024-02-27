@@ -24,7 +24,6 @@ The goal of this project is to develop a Flask API that satisfies the following 
 ## Repository Content
 
 - `api.py`: The main Python file containing the implementation of the Flask API.
-- `snippets/`: A folder containing code snippets to browse results of various API URLs.
 - `README.md`: This file, providing an overview of the project and instructions.
 
 ## Getting Started
@@ -49,4 +48,20 @@ The goal of this project is to develop a Flask API that satisfies the following 
    - Retrieve all test cases: [http://127.0.0.1:5000/api/test_cases](http://127.0.0.1:5000/api/test_cases)
    - Populate the database with sample test cases: [http://127.0.0.1:5000/api/db_populate](http://127.0.0.1:5000/api/db_populate)
    - For other endpoints, check the API documentation or refer to the `snippets/` folder.
+  
+##Snippets
+
+![image](https://github.com/Nehalshetta/Flask-API/assets/63877578/1af613ae-348f-465f-99bf-45d7fbebf9f1)
+
+![image](https://github.com/Nehalshetta/Flask-API/assets/63877578/c28b6d75-bfe9-4b6c-87fd-a4803ad23114)
+
+![image](https://github.com/Nehalshetta/Flask-API/assets/63877578/3cc14507-1696-43be-90b2-7a8bcb3a991c)
+![image](https://github.com/Nehalshetta/Flask-API/assets/63877578/2beefa66-b16e-4c45-a778-0d3d693c0ebe)
+http://127.0.0.1:5000/api/test_cases/2
+![image](https://github.com/Nehalshetta/Flask-API/assets/63877578/bc155cec-61d5-49d5-aecb-59fa00c05143)
+
+
+
+
+
 
