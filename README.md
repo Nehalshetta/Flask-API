@@ -61,14 +61,18 @@ Results of URL: http://127.0.0.1:5000/api/db_populate corresponding of endpoint 
 ![image](https://github.com/Nehalshetta/Flask-API/assets/63877578/212d3025-addb-4489-b814-74594e019a9c)
 
 
-Results of URL: http://127.0.0.1:5000/api/1 corresponding of endpoint '/api/test_cases/<int:test_case_id>' *Test ID 1*
+Results of URL: http://127.0.0.1:5000/api/1 corresponding of endpoint '/api/test_cases/<int:test_case_id>'
 
-![image](https://github.com/Nehalshetta/Flask-API/assets/63877578/c28b6d75-bfe9-4b6c-87fd-a4803ad23114)
+   *Test ID 1*
+   
+   ![image](https://github.com/Nehalshetta/Flask-API/assets/63877578/c28b6d75-bfe9-4b6c-87fd-a4803ad23114)
+   
+   
+   
+   *Test ID 2*
+   
+   ![image](https://github.com/Nehalshetta/Flask-API/assets/63877578/df5172f7-2672-4ada-a593-086a0302043a)
 
-
-Results of URL: http://127.0.0.1:5000/api/2 corresponding of endpoint '/api/test_cases/<int:test_case_id>' *Test ID 2*
-
-![image](https://github.com/Nehalshetta/Flask-API/assets/63877578/2beefa66-b16e-4c45-a778-0d3d693c0ebe)
 
 
 
