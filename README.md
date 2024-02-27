@@ -24,7 +24,6 @@ The goal of this project is to develop a Flask API that satisfies the following 
 ## Repository Content
 
 - `api.py`: The main Python file containing the implementation of the Flask API.
-- `snippets/`: A folder containing code snippets to browse results of various API URLs.
 - `README.md`: This file, providing an overview of the project and instructions.
 
 ## Getting Started
@@ -49,4 +48,32 @@ The goal of this project is to develop a Flask API that satisfies the following 
    - Retrieve all test cases: [http://127.0.0.1:5000/api/test_cases](http://127.0.0.1:5000/api/test_cases)
    - Populate the database with sample test cases: [http://127.0.0.1:5000/api/db_populate](http://127.0.0.1:5000/api/db_populate)
    - For other endpoints, check the API documentation or refer to the `snippets/` folder.
+  
+## Snippets
+
+Results of URL: http://127.0.0.1:5000/api/test_cases corresponding of endpoint '/api/test_cases'
+
+![image](https://github.com/Nehalshetta/Flask-API/assets/63877578/1af613ae-348f-465f-99bf-45d7fbebf9f1)
+
+
+Results of URL: http://127.0.0.1:5000/api/db_populate corresponding of endpoint '/api/db_populate'
+
+![image](https://github.com/Nehalshetta/Flask-API/assets/63877578/212d3025-addb-4489-b814-74594e019a9c)
+
+
+Results of URL: http://127.0.0.1:5000/api/1 corresponding of endpoint '/api/test_cases/<int:test_case_id>' *Test ID 1*
+
+![image](https://github.com/Nehalshetta/Flask-API/assets/63877578/c28b6d75-bfe9-4b6c-87fd-a4803ad23114)
+
+
+Results of URL: http://127.0.0.1:5000/api/2 corresponding of endpoint '/api/test_cases/<int:test_case_id>' *Test ID 2*
+
+![image](https://github.com/Nehalshetta/Flask-API/assets/63877578/2beefa66-b16e-4c45-a778-0d3d693c0ebe)
+
+
+
+
+
+
+
 
