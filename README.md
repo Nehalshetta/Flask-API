@@ -55,9 +55,10 @@ The goal of this project is to develop a Flask API that satisfies the following 
 
 ![image](https://github.com/Nehalshetta/Flask-API/assets/63877578/c28b6d75-bfe9-4b6c-87fd-a4803ad23114)
 
-![image](https://github.com/Nehalshetta/Flask-API/assets/63877578/3cc14507-1696-43be-90b2-7a8bcb3a991c)
+![image](https://github.com/Nehalshetta/Flask-API/assets/63877578/212d3025-addb-4489-b814-74594e019a9c)
+
 ![image](https://github.com/Nehalshetta/Flask-API/assets/63877578/2beefa66-b16e-4c45-a778-0d3d693c0ebe)
-http://127.0.0.1:5000/api/test_cases/2
+
 ![image](https://github.com/Nehalshetta/Flask-API/assets/63877578/bc155cec-61d5-49d5-aecb-59fa00c05143)
 
 
